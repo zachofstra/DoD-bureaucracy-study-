@@ -1,0 +1,73 @@
+====================================================================================================
+EXECUTIVE SUMMARY: VAR(2) ANALYSIS OF DOD BUREAUCRATIC GROWTH
+Dataset: v12.3 (1987-2024, 38 observations)
+====================================================================================================
+
+1. MODEL SPECIFICATION
+----------------------------------------------------------------------------------------------------
+  Model: Vector Autoregression with 2 lags (VAR(2))
+  Variables: 8 key bureaucratic/personnel indicators
+  Time Period: 1987-2024 (37 years, 38 observations)
+  Observations Used: 36 (after lagging)
+  Average R-squared: 0.9708 (97% of variance explained)
+
+  Variables Included:
+    1. Warrant Officers (Warrant_Officers_Z)
+    2. Policy Volume (Policy_Count_Log)
+    3. Company Grade (O-1 to O-3) (Company_Grade_Officers_Z)
+    4. Political Appointees (Total_PAS_Z)
+    5. FOIA Delay (FOIA_Simple_Days_Z)
+    6. Junior Enlisted (E-1 to E-4) (Junior_Enlisted_Z)
+    7. Field Grade (O-4 to O-5) (Field_Grade_Officers_Z)
+    8. Civilian Personnel (Total_Civilians_Z)
+
+2. KEY FINDINGS: SHORT-RUN DYNAMICS
+----------------------------------------------------------------------------------------------------
+
+  A. PRIMARY DRIVERS (Variables with strongest outward influence):
+    1. Field Grade (O-4 to O-5): Total outward influence = 7.942
+       → dampens Policy Volume (strength: 4.804)
+       → dampens Civilian Personnel (strength: 0.958)
+       → amplifies FOIA Delay (strength: 0.766)
+
+    2. Warrant Officers: Total outward influence = 7.437
+       → dampens Policy Volume (strength: 2.284)
+       → amplifies Civilian Personnel (strength: 1.688)
+       → amplifies Political Appointees (strength: 1.420)
+
+    3. Company Grade (O-1 to O-3): Total outward influence = 6.690
+       → amplifies Policy Volume (strength: 5.037)
+       → dampens Junior Enlisted (E-1 to E-4) (strength: 0.451)
+       → amplifies Field Grade (O-4 to O-5) (strength: 0.343)
+
+  B. PRIMARY RECEIVERS (Variables most influenced by others):
+    1. Policy Volume: Total inward influence = 15.916
+       ← amplified by Company Grade (O-1 to O-3) (strength: 5.037)
+       ← dampened by Field Grade (O-4 to O-5) (strength: 4.804)
+       ← dampened by Warrant Officers (strength: 2.284)
+
+    2. Political Appointees: Total inward influence = 4.119
+       ← amplified by Warrant Officers (strength: 1.420)
+       ← amplified by Civilian Personnel (strength: 1.048)
+       ← dampened by Field Grade (O-4 to O-5) (strength: 0.680)
+
+    3. Civilian Personnel: Total inward influence = 3.732
+       ← amplified by Warrant Officers (strength: 1.688)
+       ← dampened by Field Grade (O-4 to O-5) (strength: 0.958)
+       ← amplified by Political Appointees (strength: 0.418)
+
+  C. STRONGEST INDIVIDUAL RELATIONSHIPS:
+    Company Grade (O-1 to O-3) → Policy Volume: 5.037 (AMPLIFYING)
+    Field Grade (O-4 to O-5) → Policy Volume: 4.804 (DAMPENING)
+    Warrant Officers → Policy Volume: 2.284 (DAMPENING)
+    Warrant Officers → Civilian Personnel: 1.688 (AMPLIFYING)
+    FOIA Delay → Policy Volume: 1.663 (DAMPENING)
+
+
+
+ MODEL DIAGNOSTICS
+----------------------------------------------------------------------------------------------------
+  Average R-squared: 0.9708
+  Stationarity: 2/8 variables stationary (suggests VECM may be appropriate)
+  Lag order: 2 (selected by LASSO analysis and sample size constraints)
+  Sample size: n=38, adequate for 8 variables with 2 lags

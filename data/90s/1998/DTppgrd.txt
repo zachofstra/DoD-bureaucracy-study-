@@ -1,0 +1,930 @@
+PPTYP,PPTYPT,PPGROUP,PPGROUPT,PAYPLAN,PAYPLANT,PPGRD
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GM,GM-EMPLOYEES COVERED BY THE PERFORMANCE MANAGEMENT AND RECOGNITION SYSTEM (PMRS) TERMINATION PROVISIONS,GM-**
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GM,GM-EMPLOYEES COVERED BY THE PERFORMANCE MANAGEMENT AND RECOGNITION SYSTEM (PMRS) TERMINATION PROVISIONS,GM-13
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GM,GM-EMPLOYEES COVERED BY THE PERFORMANCE MANAGEMENT AND RECOGNITION SYSTEM (PMRS) TERMINATION PROVISIONS,GM-14
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GM,GM-EMPLOYEES COVERED BY THE PERFORMANCE MANAGEMENT AND RECOGNITION SYSTEM (PMRS) TERMINATION PROVISIONS,GM-15
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-01
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-02
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-03
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-04
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-05
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-06
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-07
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-08
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-09
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-10
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-11
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-12
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-13
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-14
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,11,Standard GSEG Pay Plans,GS,GS-GENERAL SCHEDULE,GS-15
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-01
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-02
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-03
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-04
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-05
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-06
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-07
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-08
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-09
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-10
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-11
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-12
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-13
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-14
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CG,CG-CORPORATE GRADED,CG-15
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-01
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-02
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-03
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-04
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-05
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-06
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-07
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-08
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-09
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-10
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-11
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-12
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-13
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-14
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-15
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-33
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,CZ,CZ-CANAL ZONE GENERAL SCHEDULE-TYPE POSITIONS,CZ-GF
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-01
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-02
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-03
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-04
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-05
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-06
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-07
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-08
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-09
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-10
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-11
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-12
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-13
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-14
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FG,FG-SIMILAR TO THE GENERAL SCHEDULE,FG-15
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FM,FM-FORMER PERFORMANCE MANAGEMENT AND RECOGNITION SERVICE EMPLOYEES,FM-13
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FM,FM-FORMER PERFORMANCE MANAGEMENT AND RECOGNITION SERVICE EMPLOYEES,FM-14
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,FM,FM-FORMER PERFORMANCE MANAGEMENT AND RECOGNITION SERVICE EMPLOYEES,FM-15
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-01
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-02
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-03
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-04
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-05
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-06
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-07
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-08
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-09
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-10
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-11
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-12
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-13
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-14
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-15
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GG,GG-GRADES SIMILAR TO GENERAL SCHEDULE,GG-SL
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GH,GH-GG EMPLOYEES CONVERTED TO THE FORMER PERFORMANCE MANAGEMENT RECOGNITION SYSTEM (PMRS),GH-13
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GH,GH-GG EMPLOYEES CONVERTED TO THE FORMER PERFORMANCE MANAGEMENT RECOGNITION SYSTEM (PMRS),GH-14
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GH,GH-GG EMPLOYEES CONVERTED TO THE FORMER PERFORMANCE MANAGEMENT RECOGNITION SYSTEM (PMRS),GH-15
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GN,GN-NURSING AT THE WARREN G. MAGNUSON CLINICAL CENTER,GN-07
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GN,GN-NURSING AT THE WARREN G. MAGNUSON CLINICAL CENTER,GN-09
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GN,GN-NURSING AT THE WARREN G. MAGNUSON CLINICAL CENTER,GN-10
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GN,GN-NURSING AT THE WARREN G. MAGNUSON CLINICAL CENTER,GN-11
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GN,GN-NURSING AT THE WARREN G. MAGNUSON CLINICAL CENTER,GN-12
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GN,GN-NURSING AT THE WARREN G. MAGNUSON CLINICAL CENTER,GN-13
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GN,GN-NURSING AT THE WARREN G. MAGNUSON CLINICAL CENTER,GN-14
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,GN,GN-NURSING AT THE WARREN G. MAGNUSON CLINICAL CENTER,GN-15
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-00
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-02
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-03
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-04
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-05
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-06
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-07
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-08
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-09
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-10
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-11
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-12
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-13
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-14
+1,General Schedule and Equivalently Graded (GSEG) Pay Plans,12,Other GSEG Pay Plans,PG,PG-PRINTING OFFICE GRADES,PG-15
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NA,NA-NONAPPROPRIATED FUNDS - NONSUPERVISORY AND NONLEADER - FEDERAL WAGE SYSTEM,NA-01
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NA,NA-NONAPPROPRIATED FUNDS - NONSUPERVISORY AND NONLEADER - FEDERAL WAGE SYSTEM,NA-02
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NA,NA-NONAPPROPRIATED FUNDS - NONSUPERVISORY AND NONLEADER - FEDERAL WAGE SYSTEM,NA-03
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NA,NA-NONAPPROPRIATED FUNDS - NONSUPERVISORY AND NONLEADER - FEDERAL WAGE SYSTEM,NA-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NA,NA-NONAPPROPRIATED FUNDS - NONSUPERVISORY AND NONLEADER - FEDERAL WAGE SYSTEM,NA-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NA,NA-NONAPPROPRIATED FUNDS - NONSUPERVISORY AND NONLEADER - FEDERAL WAGE SYSTEM,NA-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NA,NA-NONAPPROPRIATED FUNDS - NONSUPERVISORY AND NONLEADER - FEDERAL WAGE SYSTEM,NA-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NA,NA-NONAPPROPRIATED FUNDS - NONSUPERVISORY AND NONLEADER - FEDERAL WAGE SYSTEM,NA-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NL,NL-NONAPPROPRIATED FUNDS - LEADER - FEDERAL WAGE SYSTEM,NL-02
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NL,NL-NONAPPROPRIATED FUNDS - LEADER - FEDERAL WAGE SYSTEM,NL-03
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NL,NL-NONAPPROPRIATED FUNDS - LEADER - FEDERAL WAGE SYSTEM,NL-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NL,NL-NONAPPROPRIATED FUNDS - LEADER - FEDERAL WAGE SYSTEM,NL-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NL,NL-NONAPPROPRIATED FUNDS - LEADER - FEDERAL WAGE SYSTEM,NL-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NL,NL-NONAPPROPRIATED FUNDS - LEADER - FEDERAL WAGE SYSTEM,NL-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NL,NL-NONAPPROPRIATED FUNDS - LEADER - FEDERAL WAGE SYSTEM,NL-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NS,NS-NONAPPROPRIATED FUNDS - SUPERVISORY - FEDERAL WAGE SYSTEM,NS-02
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NS,NS-NONAPPROPRIATED FUNDS - SUPERVISORY - FEDERAL WAGE SYSTEM,NS-03
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NS,NS-NONAPPROPRIATED FUNDS - SUPERVISORY - FEDERAL WAGE SYSTEM,NS-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NS,NS-NONAPPROPRIATED FUNDS - SUPERVISORY - FEDERAL WAGE SYSTEM,NS-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NS,NS-NONAPPROPRIATED FUNDS - SUPERVISORY - FEDERAL WAGE SYSTEM,NS-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NS,NS-NONAPPROPRIATED FUNDS - SUPERVISORY - FEDERAL WAGE SYSTEM,NS-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,NS,NS-NONAPPROPRIATED FUNDS - SUPERVISORY - FEDERAL WAGE SYSTEM,NS-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WA,"WA-NAVIGATIONAL LOCK AND DAM OPERATIONS AND MAINTENANCE IN U.S. ARMY CORPS OF ENGINEERS-SUPERVISORY, FED WAGE SYS",WA-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WA,"WA-NAVIGATIONAL LOCK AND DAM OPERATIONS AND MAINTENANCE IN U.S. ARMY CORPS OF ENGINEERS-SUPERVISORY, FED WAGE SYS",WA-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WA,"WA-NAVIGATIONAL LOCK AND DAM OPERATIONS AND MAINTENANCE IN U.S. ARMY CORPS OF ENGINEERS-SUPERVISORY, FED WAGE SYS",WA-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WA,"WA-NAVIGATIONAL LOCK AND DAM OPERATIONS AND MAINTENANCE IN U.S. ARMY CORPS OF ENGINEERS-SUPERVISORY, FED WAGE SYS",WA-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WA,"WA-NAVIGATIONAL LOCK AND DAM OPERATIONS AND MAINTENANCE IN U.S. ARMY CORPS OF ENGINEERS-SUPERVISORY, FED WAGE SYS",WA-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WA,"WA-NAVIGATIONAL LOCK AND DAM OPERATIONS AND MAINTENANCE IN U.S. ARMY CORPS OF ENGINEERS-SUPERVISORY, FED WAGE SYS",WA-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WA,"WA-NAVIGATIONAL LOCK AND DAM OPERATIONS AND MAINTENANCE IN U.S. ARMY CORPS OF ENGINEERS-SUPERVISORY, FED WAGE SYS",WA-14
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WA,"WA-NAVIGATIONAL LOCK AND DAM OPERATIONS AND MAINTENANCE IN U.S. ARMY CORPS OF ENGINEERS-SUPERVISORY, FED WAGE SYS",WA-15
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WA,"WA-NAVIGATIONAL LOCK AND DAM OPERATIONS AND MAINTENANCE IN U.S. ARMY CORPS OF ENGINEERS-SUPERVISORY, FED WAGE SYS",WA-16
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WB,WB-WAGE POSITIONS UNDER THE FEDERAL WAGE SYSTEM NOT OTHERWISE DESIGNATED,WB-00
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WB,WB-WAGE POSITIONS UNDER THE FEDERAL WAGE SYSTEM NOT OTHERWISE DESIGNATED,WB-02
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WB,WB-WAGE POSITIONS UNDER THE FEDERAL WAGE SYSTEM NOT OTHERWISE DESIGNATED,WB-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WD,WD-PRODUCTION FACILITATING NON-SUPERVISORY - FEDERAL WAGE SYSTEM,WD-01
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WD,WD-PRODUCTION FACILITATING NON-SUPERVISORY - FEDERAL WAGE SYSTEM,WD-02
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WD,WD-PRODUCTION FACILITATING NON-SUPERVISORY - FEDERAL WAGE SYSTEM,WD-03
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WD,WD-PRODUCTION FACILITATING NON-SUPERVISORY - FEDERAL WAGE SYSTEM,WD-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WD,WD-PRODUCTION FACILITATING NON-SUPERVISORY - FEDERAL WAGE SYSTEM,WD-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WD,WD-PRODUCTION FACILITATING NON-SUPERVISORY - FEDERAL WAGE SYSTEM,WD-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WD,WD-PRODUCTION FACILITATING NON-SUPERVISORY - FEDERAL WAGE SYSTEM,WD-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WD,WD-PRODUCTION FACILITATING NON-SUPERVISORY - FEDERAL WAGE SYSTEM,WD-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WD,WD-PRODUCTION FACILITATING NON-SUPERVISORY - FEDERAL WAGE SYSTEM,WD-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WD,WD-PRODUCTION FACILITATING NON-SUPERVISORY - FEDERAL WAGE SYSTEM,WD-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-01
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-02
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-03
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-12
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-13
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-14
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WG,WG-NONSUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WG-15
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WJ,WJ-HOPPER DREDGE SCHEDULE--FEDERAL WAGE SYSTEM,WJ-03
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WJ,WJ-HOPPER DREDGE SCHEDULE--FEDERAL WAGE SYSTEM,WJ-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WJ,WJ-HOPPER DREDGE SCHEDULE--FEDERAL WAGE SYSTEM,WJ-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WJ,WJ-HOPPER DREDGE SCHEDULE--FEDERAL WAGE SYSTEM,WJ-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WJ,WJ-HOPPER DREDGE SCHEDULE--FEDERAL WAGE SYSTEM,WJ-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WJ,WJ-HOPPER DREDGE SCHEDULE--FEDERAL WAGE SYSTEM,WJ-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WJ,WJ-HOPPER DREDGE SCHEDULE--FEDERAL WAGE SYSTEM,WJ-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WJ,WJ-HOPPER DREDGE SCHEDULE--FEDERAL WAGE SYSTEM,WJ-14
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WJ,WJ-HOPPER DREDGE SCHEDULE--FEDERAL WAGE SYSTEM,WJ-15
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WJ,WJ-HOPPER DREDGE SCHEDULE--FEDERAL WAGE SYSTEM,WJ-16
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WK,"WK-HOPPER DREDGE SCHEDULE, NONSUPERVISORY",WK-02
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WK,"WK-HOPPER DREDGE SCHEDULE, NONSUPERVISORY",WK-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WK,"WK-HOPPER DREDGE SCHEDULE, NONSUPERVISORY",WK-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WK,"WK-HOPPER DREDGE SCHEDULE, NONSUPERVISORY",WK-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WK,"WK-HOPPER DREDGE SCHEDULE, NONSUPERVISORY",WK-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WK,"WK-HOPPER DREDGE SCHEDULE, NONSUPERVISORY",WK-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WK,"WK-HOPPER DREDGE SCHEDULE, NONSUPERVISORY",WK-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WK,"WK-HOPPER DREDGE SCHEDULE, NONSUPERVISORY",WK-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WK,"WK-HOPPER DREDGE SCHEDULE, NONSUPERVISORY",WK-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WK,"WK-HOPPER DREDGE SCHEDULE, NONSUPERVISORY",WK-12
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WK,"WK-HOPPER DREDGE SCHEDULE, NONSUPERVISORY",WK-13
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-01
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-02
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-03
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-12
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-13
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-14
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WL,WL-LEADER PAY SCHEDULE - FEDERAL WAGE SYSTEM,WL-15
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WN,WN-PRODUCTION FACILITATING SUPERVISORY FEDERAL WAGE SYSTEM,WN-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WN,WN-PRODUCTION FACILITATING SUPERVISORY FEDERAL WAGE SYSTEM,WN-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WO,WO-NAVIGATIONAL LOCK AND DAM OPERATION AND MAINTENANCE POSITIONS IN THE U.S. ARMY CORPS OF ENGINEERS - LEADER - F,WO-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WO,WO-NAVIGATIONAL LOCK AND DAM OPERATION AND MAINTENANCE POSITIONS IN THE U.S. ARMY CORPS OF ENGINEERS - LEADER - F,WO-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WO,WO-NAVIGATIONAL LOCK AND DAM OPERATION AND MAINTENANCE POSITIONS IN THE U.S. ARMY CORPS OF ENGINEERS - LEADER - F,WO-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WO,WO-NAVIGATIONAL LOCK AND DAM OPERATION AND MAINTENANCE POSITIONS IN THE U.S. ARMY CORPS OF ENGINEERS - LEADER - F,WO-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WO,WO-NAVIGATIONAL LOCK AND DAM OPERATION AND MAINTENANCE POSITIONS IN THE U.S. ARMY CORPS OF ENGINEERS - LEADER - F,WO-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WO,WO-NAVIGATIONAL LOCK AND DAM OPERATION AND MAINTENANCE POSITIONS IN THE U.S. ARMY CORPS OF ENGINEERS - LEADER - F,WO-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WQ,"WQ-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - SUPERVISORY - FEDE",WQ-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WQ,"WQ-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - SUPERVISORY - FEDE",WQ-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WQ,"WQ-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - SUPERVISORY - FEDE",WQ-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WQ,"WQ-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - SUPERVISORY - FEDE",WQ-12
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WQ,"WQ-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - SUPERVISORY - FEDE",WQ-13
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WQ,"WQ-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - SUPERVISORY - FEDE",WQ-14
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WR,"WR-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - LEADER - FEDERAL W",WR-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-01
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-02
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-03
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-12
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-13
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-14
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-15
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-16
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-17
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WS,WS-SUPERVISORY PAY SCHEDULES - FEDERAL WAGE SYSTEM,WS-18
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WT,WT-APPRENTICES AND SHOP TRAINEES - FEDERAL WAGE SYSTEM,WT-00
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WT,WT-APPRENTICES AND SHOP TRAINEES - FEDERAL WAGE SYSTEM,WT-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WU,"WU-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - NONSUPERVISORY - F",WU-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WU,"WU-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - NONSUPERVISORY - F",WU-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WU,"WU-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - NONSUPERVISORY - F",WU-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WU,"WU-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - NONSUPERVISORY - F",WU-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WU,"WU-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - NONSUPERVISORY - F",WU-12
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WU,"WU-AIRCRAFT, ELECTRONIC EQUIPMENT, AND OPTICAL INSTRUMENT OVERHAUL AND REPAIR IN PUERTO RICO - NONSUPERVISORY - F",WU-13
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WY,"WY-NAVIGATIONAL LOCK & DAM OPERATION & MAINTENANCE POSITIONS IN U.S. ARMY CORPS OF ENGINEERS, NONSUPERVISORY, FWS",WY-01
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WY,"WY-NAVIGATIONAL LOCK & DAM OPERATION & MAINTENANCE POSITIONS IN U.S. ARMY CORPS OF ENGINEERS, NONSUPERVISORY, FWS",WY-02
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WY,"WY-NAVIGATIONAL LOCK & DAM OPERATION & MAINTENANCE POSITIONS IN U.S. ARMY CORPS OF ENGINEERS, NONSUPERVISORY, FWS",WY-03
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WY,"WY-NAVIGATIONAL LOCK & DAM OPERATION & MAINTENANCE POSITIONS IN U.S. ARMY CORPS OF ENGINEERS, NONSUPERVISORY, FWS",WY-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WY,"WY-NAVIGATIONAL LOCK & DAM OPERATION & MAINTENANCE POSITIONS IN U.S. ARMY CORPS OF ENGINEERS, NONSUPERVISORY, FWS",WY-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WY,"WY-NAVIGATIONAL LOCK & DAM OPERATION & MAINTENANCE POSITIONS IN U.S. ARMY CORPS OF ENGINEERS, NONSUPERVISORY, FWS",WY-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WY,"WY-NAVIGATIONAL LOCK & DAM OPERATION & MAINTENANCE POSITIONS IN U.S. ARMY CORPS OF ENGINEERS, NONSUPERVISORY, FWS",WY-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WY,"WY-NAVIGATIONAL LOCK & DAM OPERATION & MAINTENANCE POSITIONS IN U.S. ARMY CORPS OF ENGINEERS, NONSUPERVISORY, FWS",WY-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WY,"WY-NAVIGATIONAL LOCK & DAM OPERATION & MAINTENANCE POSITIONS IN U.S. ARMY CORPS OF ENGINEERS, NONSUPERVISORY, FWS",WY-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WY,"WY-NAVIGATIONAL LOCK & DAM OPERATION & MAINTENANCE POSITIONS IN U.S. ARMY CORPS OF ENGINEERS, NONSUPERVISORY, FWS",WY-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,WY,"WY-NAVIGATIONAL LOCK & DAM OPERATION & MAINTENANCE POSITIONS IN U.S. ARMY CORPS OF ENGINEERS, NONSUPERVISORY, FWS",WY-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XA,XA-SPECIAL OVERLAP AREA RATE SCHEDULE - NONSUPERVISORY - FEDERAL WAGE SYSTEM,XA-03
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XA,XA-SPECIAL OVERLAP AREA RATE SCHEDULE - NONSUPERVISORY - FEDERAL WAGE SYSTEM,XA-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XA,XA-SPECIAL OVERLAP AREA RATE SCHEDULE - NONSUPERVISORY - FEDERAL WAGE SYSTEM,XA-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XA,XA-SPECIAL OVERLAP AREA RATE SCHEDULE - NONSUPERVISORY - FEDERAL WAGE SYSTEM,XA-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XA,XA-SPECIAL OVERLAP AREA RATE SCHEDULE - NONSUPERVISORY - FEDERAL WAGE SYSTEM,XA-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XA,XA-SPECIAL OVERLAP AREA RATE SCHEDULE - NONSUPERVISORY - FEDERAL WAGE SYSTEM,XA-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XA,XA-SPECIAL OVERLAP AREA RATE SCHEDULE - NONSUPERVISORY - FEDERAL WAGE SYSTEM,XA-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XA,XA-SPECIAL OVERLAP AREA RATE SCHEDULE - NONSUPERVISORY - FEDERAL WAGE SYSTEM,XA-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XB,XB-SPECIAL OVERLAP AREA RATE SCHEDULE - LEADER - FEDERAL WAGE SYSTEM,XB-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XB,XB-SPECIAL OVERLAP AREA RATE SCHEDULE - LEADER - FEDERAL WAGE SYSTEM,XB-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XC,XC-SPECIAL OVERLAP AREA RATE SCHEDULE - SUPERVISORY - FEDERAL WAGE SYSTEM,XC-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XC,XC-SPECIAL OVERLAP AREA RATE SCHEDULE - SUPERVISORY - FEDERAL WAGE SYSTEM,XC-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XC,XC-SPECIAL OVERLAP AREA RATE SCHEDULE - SUPERVISORY - FEDERAL WAGE SYSTEM,XC-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XC,XC-SPECIAL OVERLAP AREA RATE SCHEDULE - SUPERVISORY - FEDERAL WAGE SYSTEM,XC-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XC,XC-SPECIAL OVERLAP AREA RATE SCHEDULE - SUPERVISORY - FEDERAL WAGE SYSTEM,XC-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XD,XD-NONSUPERVISORY PRODUCTION FACILITATING SPECIAL SCHEDULE PRINTING EMPLOYEE,XD-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XE,XE-SUPERVISORS OF NEGOTIATED RATE EMPLOYEES--FEDERAL WAGE SYSTEM,XE-00
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-02
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-03
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-12
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-13
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XF,XF-FLOATING PLANT SCHEDULE (OTHER THAN HOPPER DREDGE) SCHEDULE--NONSUPERVISORY--FEDERAL WAGE SYSTEM,XF-14
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XG,XG-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--LEADER--FEDERAL WAGE SYSTEM,XG-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XG,XG-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--LEADER--FEDERAL WAGE SYSTEM,XG-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XG,XG-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--LEADER--FEDERAL WAGE SYSTEM,XG-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XG,XG-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--LEADER--FEDERAL WAGE SYSTEM,XG-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XG,XG-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--LEADER--FEDERAL WAGE SYSTEM,XG-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XG,XG-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--LEADER--FEDERAL WAGE SYSTEM,XG-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-03
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-12
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-13
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-14
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-15
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-16
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XH,XH-FLOATING PLANT (OTHER THAN HOPPER DREDGE) SCHEDULE--FEDERAL WAGE SYSTEM,XH-17
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XL,XL-LEADER SPECIAL SCHEDULE PRINTING EMPLOYEE,XL-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XL,XL-LEADER SPECIAL SCHEDULE PRINTING EMPLOYEE,XL-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XL,XL-LEADER SPECIAL SCHEDULE PRINTING EMPLOYEE,XL-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XL,XL-LEADER SPECIAL SCHEDULE PRINTING EMPLOYEE,XL-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XL,XL-LEADER SPECIAL SCHEDULE PRINTING EMPLOYEE,XL-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XP,XP-NONSUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XP-04
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XP,XP-NONSUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XP-05
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XP,XP-NONSUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XP-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XP,XP-NONSUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XP-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XP,XP-NONSUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XP-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XP,XP-NONSUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XP-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XP,XP-NONSUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XP-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XS,XS-SUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XS-06
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XS,XS-SUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XS-07
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XS,XS-SUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XS-08
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XS,XS-SUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XS-09
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XS,XS-SUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XS-10
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XS,XS-SUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XS-11
+2,Prevailing Rate Pay Plans (Blue Collar),21,Federal Wage System Pay Plans,XS,XS-SUPERVISORY SPECIAL SCHEDULE PRINTING EMPLOYEE,XS-14
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,BB,BB-NONSUPERVISORY - NEGOTIATED PAY EMPLOYEES,BB-00
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,BL,BL-LEADER - NEGOTIATED PAY EMPLOYEES,BL-00
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,BP,BP-PRINTING AND LITHOGRAPHIC - NEGOTIATED PAY EMPLOYEES,BP-00
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,BS,BS-SUPERVISORY - NEGOTIATED PAY EMPLOYEES,BS-00
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FF,FF-NONSUPERVISORY PRODUCTION FACILITATORS,FF-05
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FL,FL-WAGE LEADERS (SIMILAR TO THE LEADER PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FL-06
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FL,FL-WAGE LEADERS (SIMILAR TO THE LEADER PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FL-07
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FL,FL-WAGE LEADERS (SIMILAR TO THE LEADER PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FL-09
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FL,FL-WAGE LEADERS (SIMILAR TO THE LEADER PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FL-10
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FL,FL-WAGE LEADERS (SIMILAR TO THE LEADER PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FL-11
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FL,FL-WAGE LEADERS (SIMILAR TO THE LEADER PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FL-12
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FL,FL-WAGE LEADERS (SIMILAR TO THE LEADER PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FL-14
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FS,FS-WAGE SUPERVISORS (SIMILAR TO THE SUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FS-07
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FS,FS-WAGE SUPERVISORS (SIMILAR TO THE SUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FS-08
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FS,FS-WAGE SUPERVISORS (SIMILAR TO THE SUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FS-10
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FS,FS-WAGE SUPERVISORS (SIMILAR TO THE SUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FS-13
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FS,FS-WAGE SUPERVISORS (SIMILAR TO THE SUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FS-15
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FW,FW-WAGE GRADE (SIMILAR TO THE NONSUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FW-02
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FW,FW-WAGE GRADE (SIMILAR TO THE NONSUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FW-03
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FW,FW-WAGE GRADE (SIMILAR TO THE NONSUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FW-05
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FW,FW-WAGE GRADE (SIMILAR TO THE NONSUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FW-06
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FW,FW-WAGE GRADE (SIMILAR TO THE NONSUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FW-07
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FW,FW-WAGE GRADE (SIMILAR TO THE NONSUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FW-08
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FW,FW-WAGE GRADE (SIMILAR TO THE NONSUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FW-09
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FW,FW-WAGE GRADE (SIMILAR TO THE NONSUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FW-10
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FW,FW-WAGE GRADE (SIMILAR TO THE NONSUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FW-11
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FW,FW-WAGE GRADE (SIMILAR TO THE NONSUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FW-12
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,FW,FW-WAGE GRADE (SIMILAR TO THE NONSUPERVISORY PAY SCHEDULE UNDER THE FEDERAL WAGE SYSTEM),FW-14
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KA,KA-KIESS ACT,KA-00
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KA,KA-KIESS ACT,KA-01
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KA,KA-KIESS ACT,KA-02
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KA,KA-KIESS ACT,KA-03
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KA,KA-KIESS ACT,KA-04
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KA,KA-KIESS ACT,KA-05
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KA,KA-KIESS ACT,KA-06
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KA,KA-KIESS ACT,KA-07
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KG,KG-NON-CRAFT NON-SUPERVISORY,KG-01
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KG,KG-NON-CRAFT NON-SUPERVISORY,KG-02
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KG,KG-NON-CRAFT NON-SUPERVISORY,KG-03
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KG,KG-NON-CRAFT NON-SUPERVISORY,KG-04
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KG,KG-NON-CRAFT NON-SUPERVISORY,KG-05
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KG,KG-NON-CRAFT NON-SUPERVISORY,KG-06
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KG,KG-NON-CRAFT NON-SUPERVISORY,KG-07
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KG,KG-NON-CRAFT NON-SUPERVISORY,KG-08
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KL,KL-NON-CRAFT - LEADER,KL-01
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KL,KL-NON-CRAFT - LEADER,KL-02
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KL,KL-NON-CRAFT - LEADER,KL-03
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KL,KL-NON-CRAFT - LEADER,KL-05
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KL,KL-NON-CRAFT - LEADER,KL-06
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KL,KL-NON-CRAFT - LEADER,KL-07
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KL,KL-NON-CRAFT - LEADER,KL-08
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KS,KS-NON-CRAFT - SUPERVISORY,KS-01
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KS,KS-NON-CRAFT - SUPERVISORY,KS-02
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KS,KS-NON-CRAFT - SUPERVISORY,KS-03
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KS,KS-NON-CRAFT - SUPERVISORY,KS-04
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KS,KS-NON-CRAFT - SUPERVISORY,KS-05
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KS,KS-NON-CRAFT - SUPERVISORY,KS-06
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KS,KS-NON-CRAFT - SUPERVISORY,KS-07
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KS,KS-NON-CRAFT - SUPERVISORY,KS-08
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,KS,KS-NON-CRAFT - SUPERVISORY,KS-09
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,SZ,SZ-CANAL ZONE SPECIAL CATEGORY-TYPE POSITIONS,SZ-00
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,SZ,SZ-CANAL ZONE SPECIAL CATEGORY-TYPE POSITIONS,SZ-01
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,SZ,SZ-CANAL ZONE SPECIAL CATEGORY-TYPE POSITIONS,SZ-02
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,SZ,SZ-CANAL ZONE SPECIAL CATEGORY-TYPE POSITIONS,SZ-03
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,SZ,SZ-CANAL ZONE SPECIAL CATEGORY-TYPE POSITIONS,SZ-04
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,SZ,SZ-CANAL ZONE SPECIAL CATEGORY-TYPE POSITIONS,SZ-05
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,SZ,SZ-CANAL ZONE SPECIAL CATEGORY-TYPE POSITIONS,SZ-07
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WE,WE-CURRENCY MANUFACTURING,WE-00
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-00
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-01
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-02
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-03
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-04
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-06
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-07
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-08
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-09
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-10
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-11
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-12
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-13
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-14
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-15
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-21
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-24
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-25
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-26
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-27
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-28
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WM,WM-MARITIME PAY SCHEDULES--5 U.S.C. 5348,WM-29
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-02
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-03
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-04
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-05
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-06
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-07
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-08
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-09
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-10
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-11
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-12
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-13
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-14
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-15
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-16
+2,Prevailing Rate Pay Plans (Blue Collar),22,Other Blue Collar Pay Plans,WZ,WZ-CANAL ZONE WAGE SYSTEM-TYPE POSITIONS,WZ-17
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-00
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-01
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-02
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-03
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-04
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-05
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-06
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-07
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-08
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-09
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-10
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-11
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-12
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-13
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-14
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-15
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-16
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-17
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-18
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-21
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-22
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-23
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-24
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-25
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-26
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-27
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-28
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-29
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-DD
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AD,"AD-ADMINISTRATIVELY DETERMINED RATES, NOT ELSEWHERE SPECIFIED",AD-EE
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AL,AL-ADMINISTRATIVE LAW JUDGES,AL-01
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AL,AL-ADMINISTRATIVE LAW JUDGES,AL-02
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,AL,AL-ADMINISTRATIVE LAW JUDGES,AL-03
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,CA,CA-BOARD OF CONTRACT APPEALS,CA-01
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,CA,CA-BOARD OF CONTRACT APPEALS,CA-02
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,CA,CA-BOARD OF CONTRACT APPEALS,CA-03
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,ED,ED-EXPERT (5 U.S.C. 3109),ED-00
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,ED,ED-EXPERT (5 U.S.C. 3109),ED-13
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,ED,ED-EXPERT (5 U.S.C. 3109),ED-14
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,ED,ED-EXPERT (5 U.S.C. 3109),ED-15
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EE,EE-EXPERT (OTHER),EE-00
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EF,EF-CONSULTANT (5 U.S.C. 3109),EF-00
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EF,EF-CONSULTANT (5 U.S.C. 3109),EF-12
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EF,EF-CONSULTANT (5 U.S.C. 3109),EF-14
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EF,EF-CONSULTANT (5 U.S.C. 3109),EF-15
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EG,EG-CONSULTANT (OTHER),EG-00
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EG,EG-CONSULTANT (OTHER),EG-15
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EH,EH-ADVISORY COMMITTEE MEMBER (5 U.S.C. 3109),EH-00
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EI,EI-ADVISORY COMMITTEE MEMBER (OTHER),EI-00
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,ES,ES-SENIOR EXECUTIVE SERVICE,ES-**
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,ES,ES-SENIOR EXECUTIVE SERVICE,ES-01
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,ES,ES-SENIOR EXECUTIVE SERVICE,ES-02
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,ES,ES-SENIOR EXECUTIVE SERVICE,ES-03
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,ES,ES-SENIOR EXECUTIVE SERVICE,ES-04
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,ES,ES-SENIOR EXECUTIVE SERVICE,ES-05
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,ES,ES-SENIOR EXECUTIVE SERVICE,ES-06
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EX,EX-EXECUTIVE PAY,EX-**
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EX,EX-EXECUTIVE PAY,EX-01
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EX,EX-EXECUTIVE PAY,EX-02
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EX,EX-EXECUTIVE PAY,EX-03
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EX,EX-EXECUTIVE PAY,EX-04
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,EX,EX-EXECUTIVE PAY,EX-05
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FC,FC-FOREIGN COMPENSATION,FC-**
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FC,FC-FOREIGN COMPENSATION,FC-09
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FC,FC-FOREIGN COMPENSATION,FC-10
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FC,FC-FOREIGN COMPENSATION,FC-11
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FC,FC-FOREIGN COMPENSATION,FC-12
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FC,FC-FOREIGN COMPENSATION,FC-13
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FE,FE-SENIOR FOREIGN SERVICE,FE-01
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FE,FE-SENIOR FOREIGN SERVICE,FE-02
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FE,FE-SENIOR FOREIGN SERVICE,FE-03
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FE,FE-SENIOR FOREIGN SERVICE,FE-CM
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FE,FE-SENIOR FOREIGN SERVICE,FE-MC
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FE,FE-SENIOR FOREIGN SERVICE,FE-OC
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FO,FO-FOREIGN SERVICE OFFICERS,FO-01
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FO,FO-FOREIGN SERVICE OFFICERS,FO-02
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FO,FO-FOREIGN SERVICE OFFICERS,FO-03
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FO,FO-FOREIGN SERVICE OFFICERS,FO-04
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-01
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-02
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-03
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-04
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-05
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-06
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-07
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-08
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-09
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-AA
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-BB
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-CC
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,FP,FP-FOREIGN SERVICE PERSONNEL,FP-EE
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,SL,SL-SENIOR LEVEL POSITIONS,SL-00
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,SR,SR-STATUTORY RATES NOT ELSEWHERE SPECIFIED,SR-00
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,SR,SR-STATUTORY RATES NOT ELSEWHERE SPECIFIED,SR-02
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,SR,SR-STATUTORY RATES NOT ELSEWHERE SPECIFIED,SR-03
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,SR,SR-STATUTORY RATES NOT ELSEWHERE SPECIFIED,SR-04
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,SR,SR-STATUTORY RATES NOT ELSEWHERE SPECIFIED,SR-05
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,SR,SR-STATUTORY RATES NOT ELSEWHERE SPECIFIED,SR-06
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,ST,ST-SCIENTIFIC AND PROFESSIONAL,ST-00
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-30
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-31
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-32
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-33
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-34
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-35
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-36
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-37
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-38
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-39
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-40
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-41
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-42
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-43
+3,Other White Collar Pay Plans,31,Governmentwide or Multi-Agency Plans,VH,"VH-PROFESSIONAL, ADMINISTRATIVE, AND MANAGERIAL",VH-44
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,AJ,AJ-ADMINISTRATIVE JUDGES,AJ-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CE,CE-CONTRACT EDUCATION--YEAR LONG,CE-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CE,CE-CONTRACT EDUCATION--YEAR LONG,CE-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CE,CE-CONTRACT EDUCATION--YEAR LONG,CE-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CE,CE-CONTRACT EDUCATION--YEAR LONG,CE-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CE,CE-CONTRACT EDUCATION--YEAR LONG,CE-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CE,CE-CONTRACT EDUCATION--YEAR LONG,CE-06
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CE,CE-CONTRACT EDUCATION--YEAR LONG,CE-07
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CE,CE-CONTRACT EDUCATION--YEAR LONG,CE-08
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CE,CE-CONTRACT EDUCATION--YEAR LONG,CE-09
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CE,CE-CONTRACT EDUCATION--YEAR LONG,CE-10
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CE,CE-CONTRACT EDUCATION--YEAR LONG,CE-14
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-06
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-07
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-08
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-09
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-11
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-12
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-13
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-14
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-15
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CU,CU-CREDIT UNION EMPLOYEES,CU-16
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-06
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-07
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-08
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-09
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-11
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-12
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-13
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-14
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-15
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-16
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-17
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-21
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-22
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-23
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,CY,CY-CONTRACT EDUCATION--SCHOOL YEAR,CY-24
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DA,DA-DEMONSTRATION ADMINISTRATIVE,DA-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DA,DA-DEMONSTRATION ADMINISTRATIVE,DA-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DA,DA-DEMONSTRATION ADMINISTRATIVE,DA-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DA,DA-DEMONSTRATION ADMINISTRATIVE,DA-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DB,DB-DEMONSTRATION ENGINEERS AND SCIENTISTS,DB-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DB,DB-DEMONSTRATION ENGINEERS AND SCIENTISTS,DB-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DB,DB-DEMONSTRATION ENGINEERS AND SCIENTISTS,DB-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DB,DB-DEMONSTRATION ENGINEERS AND SCIENTISTS,DB-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DB,DB-DEMONSTRATION ENGINEERS AND SCIENTISTS,DB-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DE,DE-DEMONSTRATION ENGINEERS AND SCIENTISTS TECHNICIANS,DE-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DE,DE-DEMONSTRATION ENGINEERS AND SCIENTISTS TECHNICIANS,DE-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DE,DE-DEMONSTRATION ENGINEERS AND SCIENTISTS TECHNICIANS,DE-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DE,DE-DEMONSTRATION ENGINEERS AND SCIENTISTS TECHNICIANS,DE-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DE,DE-DEMONSTRATION ENGINEERS AND SCIENTISTS TECHNICIANS,DE-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DG,DG-DEMONSTRATION GENERAL,DG-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DG,DG-DEMONSTRATION GENERAL,DG-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DG,DG-DEMONSTRATION GENERAL,DG-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DG,DG-DEMONSTRATION GENERAL,DG-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DG,DG-DEMONSTRATION GENERAL,DG-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DG,DG-DEMONSTRATION GENERAL,DG-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DJ,DJ-DEMONSTRATION ADMINISTRATIVE,DJ-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DJ,DJ-DEMONSTRATION ADMINISTRATIVE,DJ-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DJ,DJ-DEMONSTRATION ADMINISTRATIVE,DJ-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DJ,DJ-DEMONSTRATION ADMINISTRATIVE,DJ-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DK,DK-DEMONSTRATION GENERAL SUPPORT,DK-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DK,DK-DEMONSTRATION GENERAL SUPPORT,DK-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DK,DK-DEMONSTRATION GENERAL SUPPORT,DK-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DK,DK-DEMONSTRATION GENERAL SUPPORT,DK-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DN,DN-DEFENSE NUCLEAR FACILITIES SAFETY BOARD EXCEPTED SERVICE EMPLOYEES,DN-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DN,DN-DEFENSE NUCLEAR FACILITIES SAFETY BOARD EXCEPTED SERVICE EMPLOYEES,DN-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DN,DN-DEFENSE NUCLEAR FACILITIES SAFETY BOARD EXCEPTED SERVICE EMPLOYEES,DN-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DN,DN-DEFENSE NUCLEAR FACILITIES SAFETY BOARD EXCEPTED SERVICE EMPLOYEES,DN-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DN,DN-DEFENSE NUCLEAR FACILITIES SAFETY BOARD EXCEPTED SERVICE EMPLOYEES,DN-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DP,DP-DEMONSTRATION PROFESSIONAL,DP-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DP,DP-DEMONSTRATION PROFESSIONAL,DP-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DP,DP-DEMONSTRATION PROFESSIONAL,DP-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DP,DP-DEMONSTRATION PROFESSIONAL,DP-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DP,DP-DEMONSTRATION PROFESSIONAL,DP-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DP,DP-DEMONSTRATION PROFESSIONAL,DP-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DR,DR-DEMONSTRATIION AIR FORCE SCIENTIST AND ENGINEER,DR-**
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DR,DR-DEMONSTRATIION AIR FORCE SCIENTIST AND ENGINEER,DR-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DR,DR-DEMONSTRATIION AIR FORCE SCIENTIST AND ENGINEER,DR-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DR,DR-DEMONSTRATIION AIR FORCE SCIENTIST AND ENGINEER,DR-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DR,DR-DEMONSTRATIION AIR FORCE SCIENTIST AND ENGINEER,DR-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DS,DS-DEMONSTRATION SPECIALIST,DS-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DS,DS-DEMONSTRATION SPECIALIST,DS-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DS,DS-DEMONSTRATION SPECIALIST,DS-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DS,DS-DEMONSTRATION SPECIALIST,DS-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DT,DT-DEMONSTRATION TECHNICIAN,DT-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DT,DT-DEMONSTRATION TECHNICIAN,DT-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DT,DT-DEMONSTRATION TECHNICIAN,DT-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,DT,DT-DEMONSTRATION TECHNICIAN,DT-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EJ,EJ-THE DEPARTMENT OF ENERGY ORGANIZATION ACT EXCEPTED SERVICE,EJ-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EJ,EJ-THE DEPARTMENT OF ENERGY ORGANIZATION ACT EXCEPTED SERVICE,EJ-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EJ,EJ-THE DEPARTMENT OF ENERGY ORGANIZATION ACT EXCEPTED SERVICE,EJ-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EK,EK-THE NATIONAL DEFENSE AUTHORIZATION ACT OF 1995 DEPARTMENT OF ENERGY EXCEPTED SERVICE,EK-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EK,EK-THE NATIONAL DEFENSE AUTHORIZATION ACT OF 1995 DEPARTMENT OF ENERGY EXCEPTED SERVICE,EK-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EK,EK-THE NATIONAL DEFENSE AUTHORIZATION ACT OF 1995 DEPARTMENT OF ENERGY EXCEPTED SERVICE,EK-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EO,EO-FDIC EXECUTIVE PAY,EO-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EO,EO-FDIC EXECUTIVE PAY,EO-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EO,EO-FDIC EXECUTIVE PAY,EO-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EO,EO-FDIC EXECUTIVE PAY,EO-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EO,EO-FDIC EXECUTIVE PAY,EO-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EV,EV-FEDERAL AVIATION ADMINISTRATION EXECUTIVE COMPENSATION PLAN,EV-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EV,EV-FEDERAL AVIATION ADMINISTRATION EXECUTIVE COMPENSATION PLAN,EV-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,EV,EV-FEDERAL AVIATION ADMINISTRATION EXECUTIVE COMPENSATION PLAN,EV-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FA,"FA-FOREIGN SERVICE CHIEFS OF MISSION, P.L. 94-464, SECTION 103(1)",FA-14
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FA,"FA-FOREIGN SERVICE CHIEFS OF MISSION, P.L. 94-464, SECTION 103(1)",FA-CA
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FA,"FA-FOREIGN SERVICE CHIEFS OF MISSION, P.L. 94-464, SECTION 103(1)",FA-CM
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FA,"FA-FOREIGN SERVICE CHIEFS OF MISSION, P.L. 94-464, SECTION 103(1)",FA-MC
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FA,"FA-FOREIGN SERVICE CHIEFS OF MISSION, P.L. 94-464, SECTION 103(1)",FA-NC
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FA,"FA-FOREIGN SERVICE CHIEFS OF MISSION, P.L. 94-464, SECTION 103(1)",FA-OC
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FB,FB-OFFICERS (SIMILAR TO THE SENIOR EXECUTIVE SERVICE),FB-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FJ,FJ-OFFICIALS ON NONCAREER APPOINTMENTS,FJ-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FT,FT-SENIOR TECHNICAL AND SENIOR LEVEL (SIMILAR TO THE SENIOR-LEVEL AND SCIENTIFIC OR PROF POS UNDER 5 U.S.C. 5376),FT-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FV,FV-FEDERAL AVIATION ADMINISTRATION CORE COMPENSATION PLAN,FV-BB
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FV,FV-FEDERAL AVIATION ADMINISTRATION CORE COMPENSATION PLAN,FV-CC
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FV,FV-FEDERAL AVIATION ADMINISTRATION CORE COMPENSATION PLAN,FV-DD
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FV,FV-FEDERAL AVIATION ADMINISTRATION CORE COMPENSATION PLAN,FV-EE
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FV,FV-FEDERAL AVIATION ADMINISTRATION CORE COMPENSATION PLAN,FV-FF
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FV,FV-FEDERAL AVIATION ADMINISTRATION CORE COMPENSATION PLAN,FV-GG
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FV,FV-FEDERAL AVIATION ADMINISTRATION CORE COMPENSATION PLAN,FV-HH
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FV,FV-FEDERAL AVIATION ADMINISTRATION CORE COMPENSATION PLAN,FV-II
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FV,FV-FEDERAL AVIATION ADMINISTRATION CORE COMPENSATION PLAN,FV-JJ
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FV,FV-FEDERAL AVIATION ADMINISTRATION CORE COMPENSATION PLAN,FV-KK
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FX,FX-EXECUTIVES (SIMILAR TO THE SENIOR EXECUTIVE SERVICE),FX-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FZ,FZ-CONSULAR AGENT,FZ-20
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FZ,FZ-CONSULAR AGENT,FZ-30
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FZ,FZ-CONSULAR AGENT,FZ-40
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FZ,FZ-CONSULAR AGENT,FZ-50
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FZ,FZ-CONSULAR AGENT,FZ-60
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FZ,FZ-CONSULAR AGENT,FZ-65
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FZ,FZ-CONSULAR AGENT,FZ-70
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FZ,FZ-CONSULAR AGENT,FZ-75
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FZ,FZ-CONSULAR AGENT,FZ-80
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FZ,FZ-CONSULAR AGENT,FZ-85
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FZ,FZ-CONSULAR AGENT,FZ-90
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,FZ,FZ-CONSULAR AGENT,FZ-95
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,IE,IE-SENIOR INTELLIGENCE EXECUTIVE SERVICE (SIES) PROGRAM,IE-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,IJ,IJ-IMMIGRATION JUDGE SCHEDULE,IJ-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,IP,IP-SENIOR INTELLIGENCE PROFESSIONAL (SIP) PROGRAM,IP-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,LE,LE-UNITED STATES SECRET SERVICE UNIFORM DIVISION,LE-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,LE,LE-UNITED STATES SECRET SERVICE UNIFORM DIVISION,LE-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,LE,LE-UNITED STATES SECRET SERVICE UNIFORM DIVISION,LE-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,LE,LE-UNITED STATES SECRET SERVICE UNIFORM DIVISION,LE-07
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,LE,LE-UNITED STATES SECRET SERVICE UNIFORM DIVISION,LE-08
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,LE,LE-UNITED STATES SECRET SERVICE UNIFORM DIVISION,LE-09
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,LE,LE-UNITED STATES SECRET SERVICE UNIFORM DIVISION,LE-10
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,LE,LE-UNITED STATES SECRET SERVICE UNIFORM DIVISION,LE-11
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-07
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-08
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-09
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-10
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-11
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-12
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-13
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-14
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-15
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-16
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-17
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-18
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-19
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-20
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-21
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-22
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-23
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-24
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,MA,MA-MILK MARKETING,MA-27
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ND,ND-DEMONSTRATION SCIENTIFIC AND ENGINEERING,ND-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ND,ND-DEMONSTRATION SCIENTIFIC AND ENGINEERING,ND-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ND,ND-DEMONSTRATION SCIENTIFIC AND ENGINEERING,ND-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ND,ND-DEMONSTRATION SCIENTIFIC AND ENGINEERING,ND-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ND,ND-DEMONSTRATION SCIENTIFIC AND ENGINEERING,ND-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ND,ND-DEMONSTRATION SCIENTIFIC AND ENGINEERING,ND-06
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NG,NG-DEMONSTRATION GENERAL SUPPORT,NG-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NG,NG-DEMONSTRATION GENERAL SUPPORT,NG-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NG,NG-DEMONSTRATION GENERAL SUPPORT,NG-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NG,NG-DEMONSTRATION GENERAL SUPPORT,NG-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NG,NG-DEMONSTRATION GENERAL SUPPORT,NG-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NT,NT-DEMONSTRATION ADMINISTRATIVE AND TECHNICAL,NT-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NT,NT-DEMONSTRATION ADMINISTRATIVE AND TECHNICAL,NT-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NT,NT-DEMONSTRATION ADMINISTRATIVE AND TECHNICAL,NT-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NT,NT-DEMONSTRATION ADMINISTRATIVE AND TECHNICAL,NT-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NT,NT-DEMONSTRATION ADMINISTRATIVE AND TECHNICAL,NT-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NT,NT-DEMONSTRATION ADMINISTRATIVE AND TECHNICAL,NT-06
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NX,"NX- EXECUTIVE-LEVEL AND MANAGERIAL POSITIONS IN THE CORPORATION FOR NATIONAL AND COMMUNITY SERVICE, P.L. 103-82",NX-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NX,"NX- EXECUTIVE-LEVEL AND MANAGERIAL POSITIONS IN THE CORPORATION FOR NATIONAL AND COMMUNITY SERVICE, P.L. 103-82",NX-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NY,"NY-ALL OTHER POSITIONS IN THE CORPORATION FOR NATIONAL AND COMMUNITY SERVICE, P.L. 103-82, SUBTITLE G, SECTION",NY-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NY,"NY-ALL OTHER POSITIONS IN THE CORPORATION FOR NATIONAL AND COMMUNITY SERVICE, P.L. 103-82, SUBTITLE G, SECTION",NY-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NY,"NY-ALL OTHER POSITIONS IN THE CORPORATION FOR NATIONAL AND COMMUNITY SERVICE, P.L. 103-82, SUBTITLE G, SECTION",NY-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,NY,"NY-ALL OTHER POSITIONS IN THE CORPORATION FOR NATIONAL AND COMMUNITY SERVICE, P.L. 103-82, SUBTITLE G, SECTION",NY-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-06
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-07
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-08
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-09
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-10
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-11
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-12
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-13
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-14
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-15
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-16
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-17
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-18
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-19
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-20
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-21
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-22
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-23
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-24
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,OC,OC-OFFICE OF THE COMPTROLLER OF THE CURRENCY,OC-25
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,RS,RS-SENIOR BIOMEDICAL RESEARCH SERVICE,RS-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,SN,SN-SENIOR LEVEL SYSTEM,SN-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,SP,SP-PARK POLICE,SP-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,SP,SP-PARK POLICE,SP-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,SP,SP-PARK POLICE,SP-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,SP,SP-PARK POLICE,SP-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,SP,SP-PARK POLICE,SP-07
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,SP,SP-PARK POLICE,SP-08
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,SP,SP-PARK POLICE,SP-09
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,SP,SP-PARK POLICE,SP-10
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,SS,SS-SENIOR STAFF POSITIONS,SS-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TF,TF-FEDERAL HOUSING FINANCE BOARD EXECUTIVE LEVEL,TF-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TF,TF-FEDERAL HOUSING FINANCE BOARD EXECUTIVE LEVEL,TF-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TF,TF-FEDERAL HOUSING FINANCE BOARD EXECUTIVE LEVEL,TF-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TF,TF-FEDERAL HOUSING FINANCE BOARD EXECUTIVE LEVEL,TF-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TF,TF-FEDERAL HOUSING FINANCE BOARD EXECUTIVE LEVEL,TF-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-06
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-07
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-08
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-09
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-10
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-11
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-12
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-13
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-14
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-15
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-16
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-17
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-18
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-19
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-20
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-21
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-22
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-23
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-24
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-25
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-26
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-27
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-28
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-29
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TG,TG-OFFICE OF THRIFT SUPERVISION SALARY SCHEDULE,TG-30
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TM,TM-FEDERAL HOUSING FINANCE BOARD MERIT PAY,TM-13
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TM,TM-FEDERAL HOUSING FINANCE BOARD MERIT PAY,TM-14
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TM,TM-FEDERAL HOUSING FINANCE BOARD MERIT PAY,TM-15
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-AA
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-BA
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-CB
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-CC
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-CD
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-CE
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-CG
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-CL
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-CM
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-DE
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-DM
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-ED
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-EE
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-EG
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-EM
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-FE
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-FG
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-FM
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-GD
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-GE
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-GF
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-GL
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-KD
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-KE
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-KG
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-LD
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-LE
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-LG
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-ME
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-NE
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-NG
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-SH
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-SI
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-SJ
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-SK
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TP,TP-TEACHING POSITIONS,TP-TH
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TR,TR-POLICE FORCES OF THE U.S. MINT AND BUREAU OF ENGRAVING AND PRINTING,TR-06
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TR,TR-POLICE FORCES OF THE U.S. MINT AND BUREAU OF ENGRAVING AND PRINTING,TR-07
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TR,TR-POLICE FORCES OF THE U.S. MINT AND BUREAU OF ENGRAVING AND PRINTING,TR-08
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TR,TR-POLICE FORCES OF THE U.S. MINT AND BUREAU OF ENGRAVING AND PRINTING,TR-09
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TR,TR-POLICE FORCES OF THE U.S. MINT AND BUREAU OF ENGRAVING AND PRINTING,TR-10
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TR,TR-POLICE FORCES OF THE U.S. MINT AND BUREAU OF ENGRAVING AND PRINTING,TR-11
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TR,TR-POLICE FORCES OF THE U.S. MINT AND BUREAU OF ENGRAVING AND PRINTING,TR-12
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TR,TR-POLICE FORCES OF THE U.S. MINT AND BUREAU OF ENGRAVING AND PRINTING,TR-14
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TS,TS-FEDERAL HOUSING FINANCE BOARD STEP SYSTEM,TS-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TS,TS-FEDERAL HOUSING FINANCE BOARD STEP SYSTEM,TS-06
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TS,TS-FEDERAL HOUSING FINANCE BOARD STEP SYSTEM,TS-07
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TS,TS-FEDERAL HOUSING FINANCE BOARD STEP SYSTEM,TS-08
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TS,TS-FEDERAL HOUSING FINANCE BOARD STEP SYSTEM,TS-09
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TS,TS-FEDERAL HOUSING FINANCE BOARD STEP SYSTEM,TS-10
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TS,TS-FEDERAL HOUSING FINANCE BOARD STEP SYSTEM,TS-11
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,TS,TS-FEDERAL HOUSING FINANCE BOARD STEP SYSTEM,TS-12
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-00
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-06
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-07
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-08
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-09
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-10
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-11
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-12
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-13
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-14
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-15
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-16
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VC,VC-CANTEEN SERVICE,VC-17
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VM,VM-MEDICAL AND DENTAL,VM-12
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VM,VM-MEDICAL AND DENTAL,VM-13
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VM,VM-MEDICAL AND DENTAL,VM-14
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VM,VM-MEDICAL AND DENTAL,VM-15
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VM,VM-MEDICAL AND DENTAL,VM-96
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VM,VM-MEDICAL AND DENTAL,VM-97
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VN,VN-NURSING,VN-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VN,VN-NURSING,VN-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VN,VN-NURSING,VN-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VN,VN-NURSING,VN-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VN,VN-NURSING,VN-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VN,VN-NURSING,VN-08
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VN,VN-NURSING,VN-09
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VN,VN-NURSING,VN-11
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VN,VN-NURSING,VN-12
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VN,VN-NURSING,VN-13
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VP,VP-CLINICAL PODIATRISTS AND OPTOMETRISTS SCHEDULE,VP-12
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VP,VP-CLINICAL PODIATRISTS AND OPTOMETRISTS SCHEDULE,VP-13
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VP,VP-CLINICAL PODIATRISTS AND OPTOMETRISTS SCHEDULE,VP-14
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,VP,VP-CLINICAL PODIATRISTS AND OPTOMETRISTS SCHEDULE,VP-15
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZA,ZA-ADMINISTRATIVE,ZA-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZA,ZA-ADMINISTRATIVE,ZA-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZA,ZA-ADMINISTRATIVE,ZA-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZA,ZA-ADMINISTRATIVE,ZA-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZA,ZA-ADMINISTRATIVE,ZA-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZP,ZP-SCIENTIFIC AND ENGINEERING PROFESSIONAL,ZP-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZP,ZP-SCIENTIFIC AND ENGINEERING PROFESSIONAL,ZP-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZP,ZP-SCIENTIFIC AND ENGINEERING PROFESSIONAL,ZP-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZP,ZP-SCIENTIFIC AND ENGINEERING PROFESSIONAL,ZP-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZP,ZP-SCIENTIFIC AND ENGINEERING PROFESSIONAL,ZP-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZS,ZS-ADMINISTRATIVE SUPPORT,ZS-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZS,ZS-ADMINISTRATIVE SUPPORT,ZS-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZS,ZS-ADMINISTRATIVE SUPPORT,ZS-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZS,ZS-ADMINISTRATIVE SUPPORT,ZS-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZS,ZS-ADMINISTRATIVE SUPPORT,ZS-05
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZT,ZT-SCIENTIFIC AND ENGINEERING TECHNICIAN,ZT-01
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZT,ZT-SCIENTIFIC AND ENGINEERING TECHNICIAN,ZT-02
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZT,ZT-SCIENTIFIC AND ENGINEERING TECHNICIAN,ZT-03
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZT,ZT-SCIENTIFIC AND ENGINEERING TECHNICIAN,ZT-04
+3,Other White Collar Pay Plans,32,Single Agency Pay Plans,ZT,ZT-SCIENTIFIC AND ENGINEERING TECHNICIAN,ZT-05
+4,Unspecified or Not Applicable,41,Unspecified or Not Applicable,**,**-UNSPECIFIED,**-**
+4,Unspecified or Not Applicable,41,Unspecified or Not Applicable,ZZ,ZZ-NONAPPLICABLE,ZZ-00

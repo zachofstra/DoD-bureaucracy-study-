@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git check-ignore:*)",
+      "Bash(echo:*)",
+      "Bash(ls:*)",
+      "Bash(python:*)",
+      "Bash(cat:*)",
+      "Bash(timeout 120 python:*)",
+      "Bash(timeout 60 python:*)",
+      "Bash(timeout 600 python:*)",
+      "Bash(gh repo create:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

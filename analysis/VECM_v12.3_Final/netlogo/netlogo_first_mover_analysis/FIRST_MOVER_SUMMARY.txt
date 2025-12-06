@@ -1,0 +1,35 @@
+================================================================================
+NETLOGO FIRST MOVER ANALYSIS - TIME SERIES DATA
+================================================================================
+
+PRIMARY INITIAL CAUSE: warrant-officers
+Moves first in 2448/5400 runs (45.3%)
+
+FREQUENCY RANKING:
+--------------------------------------------------------------------------------
+  1. warrant-officers                         2448 ( 45.3%)
+  2. policy-count                              689 ( 12.8%)
+  3. gofos                                     684 ( 12.7%)
+  4. company-grade-officers                    599 ( 11.1%)
+  5. foia-simple-days                          451 (  8.4%)
+  6. field-grade-officers                      206 (  3.8%)
+  7. total-pas                                 197 (  3.6%)
+  8. junior-enlisted                           126 (  2.3%)
+
+================================================================================
+AVERAGE FIRST MOVEMENT TIMES:
+--------------------------------------------------------------------------------
+warrant-officers                         Avg:   143.4  Median:   145.0  (5400 runs, 100.0%)
+policy-count                             Avg:   158.2  Median:   155.0  (5400 runs, 100.0%)
+company-grade-officers                   Avg:   167.0  Median:   156.0  (5400 runs, 100.0%)
+gofos                                    Avg:   174.8  Median:   172.5  (5400 runs, 100.0%)
+junior-enlisted                          Avg:   182.0  Median:   179.0  (5400 runs, 100.0%)
+foia-simple-days                         Avg:   184.0  Median:   188.0  (5400 runs, 100.0%)
+field-grade-officers                     Avg:   189.2  Median:   192.0  (5400 runs, 100.0%)
+total-pas                                Avg:   208.7  Median:   214.0  (5400 runs, 100.0%)
+
+================================================================================
+BY PARAMETER CONFIGURATION:
+--------------------------------------------------------------------------------
+Var Str  Noise    Err Cor  Most Common First Mover                  Count     
+--------------------------------------------------------------------------------

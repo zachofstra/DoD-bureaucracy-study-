@@ -1,0 +1,53 @@
+
+VECM MODEL SUMMARY - RANK=2
+================================================================================
+
+MODEL SPECIFICATION:
+  Cointegration Rank: 2 (2 equilibrium relationships)
+  Lag Order (differences): 1 (k_ar_diff=1)
+  Deterministic Terms: None (nc)
+  Variables: 8
+  Observations: 38 (1987-2024)
+
+MODEL FIT:
+  Log-Likelihood: 105.72
+  AIC: -23.44
+  BIC: 127.98
+  Out-of-sample RMSE: 0.4700
+  Out-of-sample MAE: 0.3712
+  Out-of-sample MAPE: 53.01%
+
+RESIDUAL DIAGNOSTICS:
+  Stationary residuals: 8/8 variables (100.0%)
+
+BETA IMPORTANCE (sum of |beta| across 2 vectors):
+  Policy Volume (Log)                          :     0.25
+  Company Grade (O-1 to O-3)                   :     1.00
+  Junior Enlisted (E-1 to E-4)                 :     1.00
+  Field Grade (O-4 to O-5)                     :     1.83
+  Warrant Officers                             :     1.99
+  Political Appointees (PAS)                   :     2.62
+  FOIA Processing Delay                        :     2.82
+  General/Flag Officers                        :     2.88
+
+TOP 5 LONG-RUN RELATIONSHIPS:
+  28. FOIA_Simple_Days_Z                  -> GOFOs_Z                            :   0.83 (Dampening)
+  3. GOFOs_Z                             -> Junior_Enlisted_Z                  :   0.82 (Amplifying)
+  7. FOIA_Simple_Days_Z                  -> Junior_Enlisted_Z                  :   0.78 (Amplifying)
+  24. Field_Grade_Officers_Z              -> GOFOs_Z                            :   0.72 (Amplifying)
+  6. Total_PAS_Z                         -> Junior_Enlisted_Z                  :   0.66 (Dampening)
+
+FILES GENERATED:
+  - alpha_matrix_rank2.xlsx
+  - beta_matrix_rank2.xlsx
+  - gamma_matrix_rank2.xlsx
+  - longrun_influence_rank2.xlsx
+  - longrun_relationships_ranked_rank2.xlsx
+  - residual_stationarity_rank2.xlsx
+  - vecm_shortrun_influence_rank2.png
+  - vecm_longrun_influence_rank2.png
+  - vecm_influence_comparison_rank2.png
+  - beta_importance_rank2.png
+
+================================================================================
+Analysis complete for rank=2!
