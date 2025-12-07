@@ -63,3 +63,6 @@ https://www.govinfo.gov/content/pkg/GPO-PLUMBOOK-2020/pdf/GPO-PLUMBOOK-2020-8-4-
 some years only reported overall media. I used median of medians or overall median when that was all that was available. From 2008
 to 2014, the Army was not able to report a median so for them, their mean was used for those years only as it tracked closely in other
 years with the median.
+
+Python code for VAR analysis was developed with assistance from Claude AI (Anthropic)
+AI assistance (Claude, Anthropic) was used for reference formatting and research organization
